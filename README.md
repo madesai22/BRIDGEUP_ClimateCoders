@@ -27,4 +27,5 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |October 17, 2019 (Thursday)| Time scales and formats |1. "About me" presentations </br> 2. How do we measure time? </br> 3. [Introduction to time formats (contd)](./191015_timeformats/) </br> 4. Exit ticket ||
 |October 22, 2019 (Tuesday)| Sea surface temperature |1. "About me" presentations </br> 2. [Sea surface temperature](./191022_seatemperature) </br> 3. Questions for Nathalie </br> 4. Exit ticket |[Nathalie's website](https://earthobservatory.sg/research-group/marine-geochemistry-nathalie-goodkin)|
 |October 24, 2019 (Thursday)| Meet Nathalie! | | |
+test test test
 >>>>>>> c8dbe3c9bae9d24082514b641c16d6c3c012e084
