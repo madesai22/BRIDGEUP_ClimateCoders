@@ -20,3 +20,4 @@ Welcome to the Github repository of the Climate Coders, a BridgeUP STEM 2019-20 
 |October 15, 2019 (Tuesday)| Setting up |1. Community guidelines </br> 2. [Github practice (continued)](./guides) </br> 3. [Introduction to time formats](./191015) </br> 4. Exit ticket||
 |October 17, 2019 (Thursday)| Sea surface temperature | | |
 |October 22, 2019 (Tuesday)| Numpy arrays | | |
+|October 25, 2019 (Thursday)| | |
